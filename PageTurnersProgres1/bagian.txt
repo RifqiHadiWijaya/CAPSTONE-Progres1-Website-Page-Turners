@@ -1,0 +1,18 @@
+login (user n admin) (Widia)
+regis (user) (Widia)
+
+user
+- beranda_user (Sama-sama)
+- buku (widia)
+- deskripsi buku (Widia)
+- fasilitas (Nanda)
+- donasi buku (Arini) ----Masih belum
+- profile (Arini)
+
+admin
+- beranda_admin (Nanda)
+- konten (Nanda) ----Masih belum
+- donasi buku (Nanda)
+- profile (Arini)
+
+
